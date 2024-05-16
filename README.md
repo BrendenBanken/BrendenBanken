@@ -6,7 +6,7 @@ I'm a passionate Software Engineer from Minnesota with a love for crafting elega
 - Programming Languages: Lua, C#
 
 ## 💡 What I'm Currently Working On
-I'm currently focused on become a more efficient and better programmar.
+I'm currently focused on becoming a more efficient and better programmar.
 
 ## 📫 Get in Touch
 - Email: truebrendenbanken@gmail.com
